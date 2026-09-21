@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CH7inyH7XKk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleksii\\source\\repos\\cursova\\cursova\\cursova.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleksii\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
+    "C:\\Users\\Oleksii\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Oleksii\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Oleksii\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
